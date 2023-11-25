@@ -8,10 +8,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
-  steps:
-    - uses: actions/checkout@3
+    steps:
+      - uses: actions/checkout@3
 
-    - name: Run build commands
-      run: |
-        echo "Buildind the project...."
+      - name: Run build commands
+        run: |
+          echo "Buildind the project...."
     
