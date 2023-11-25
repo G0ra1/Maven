@@ -1,0 +1,4 @@
+com/netwisd/incloud-base-main/5.0/incloud-base-main-5.0.jar filter=lfs diff=lfs merge=lfs -text
+com/netwisd/incloud-base-portal/5.0/incloud-base-portal-5.0.jar filter=lfs diff=lfs merge=lfs -text
+com/netwisd/incloud-base-wf/5.0/incloud-base-wf-5.0.jar filter=lfs diff=lfs merge=lfs -text
+com/netwisd/incloud-base-gateway/5.0/incloud-base-gateway-5.0.jar filter=lfs diff=lfs merge=lfs -text

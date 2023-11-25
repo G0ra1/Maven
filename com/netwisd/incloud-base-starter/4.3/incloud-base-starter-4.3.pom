@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>incloud-base</artifactId>
+        <groupId>com.netwisd</groupId>
+        <version>4.3</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>incloud-base-starter</artifactId>
+    <packaging>pom</packaging>
+    <properties>
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
+    </properties>
+    <modules>
+        <module>incloud-base-wf-starter</module>
+        <module>incloud-base-mso-starter</module>
+        <module>incloud-base-openapi-starter</module>
+        <module>incloud-base-center-starter</module>
+        <module>incloud-base-permission-starter</module>
+    </modules>
+
+</project>

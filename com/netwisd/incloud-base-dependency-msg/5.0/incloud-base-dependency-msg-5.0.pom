@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>com.netwisd</groupId>
+        <artifactId>incloud-base-dependency</artifactId>
+        <version>5.0</version>
+    </parent>
+
+    <artifactId>incloud-base-dependency-msg</artifactId>
+
+    <properties>
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
+    <dependencies>
+        <!-- task-starter -->
+        <dependency>
+            <groupId>com.netwisd</groupId>
+            <artifactId>incloud-starter-common-task</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+        <!-- mdm -->
+        <dependency>
+            <groupId>com.netwisd</groupId>
+            <artifactId>incloud-base-dependency-mdm</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+        <!-- log-starter -->
+        <dependency>
+            <groupId>com.netwisd</groupId>
+            <artifactId>incloud-starter-common-log</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+        <!-- DB -->
+        <dependency>
+            <groupId>com.netwisd</groupId>
+            <artifactId>incloud-starter-common-db</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+        <!-- POJO -->
+        <dependency>
+            <groupId>com.netwisd</groupId>
+            <artifactId>incloud-base-pojo</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+        <!-- rabbitmq -->
+        <dependency>
+            <groupId>com.rabbitmq</groupId>
+            <artifactId>amqp-client</artifactId>
+            <version>5.7.3</version>
+        </dependency>
+        <!-- rocketmq -->
+        <dependency>
+            <groupId>org.apache.rocketmq</groupId>
+            <artifactId>rocketmq-client</artifactId>
+            <version>${rocketmq.version}</version>
+        </dependency>
+        <!-- websocket -->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-websocket</artifactId>
+        </dependency>
+        <!-- freemarker -->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-freemarker</artifactId>
+        </dependency>
+        <!-- jiguang -->
+        <dependency>
+            <groupId>cn.jpush.api</groupId>
+            <artifactId>jiguang-common</artifactId>
+            <version>1.0.8</version>
+        </dependency>
+        <dependency>
+            <groupId>cn.jpush.api</groupId>
+            <artifactId>jsms-client</artifactId>
+            <version>1.2.10</version>
+        </dependency>
+        <dependency>
+            <groupId>cn.jpush.api</groupId>
+            <artifactId>jpush-client</artifactId>
+            <version>3.3.10</version>
+        </dependency>
+    </dependencies>
+
+</project>

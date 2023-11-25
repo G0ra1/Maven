@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Nov 07 22:28:30 CST 2023
+javax.servlet-api-3.1.0.jar>central=
+javax.servlet-api-3.1.0.pom>nexus-aliyun=
+javax.servlet-api-3.1.0.jar>nexus-aliyun=
+javax.servlet-api-3.1.0.pom>central=

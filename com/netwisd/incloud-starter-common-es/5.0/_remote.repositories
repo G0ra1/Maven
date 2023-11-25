@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 21 23:29:07 CST 2023
+incloud-starter-common-es-5.0.jar>=
+incloud-starter-common-es-5.0.pom>=

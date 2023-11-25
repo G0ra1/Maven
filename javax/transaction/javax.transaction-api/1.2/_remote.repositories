@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Oct 29 21:38:30 CST 2023
+javax.transaction-api-1.2.jar>nexus-aliyun=
+javax.transaction-api-1.2.pom>nexus-aliyun=

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.caucho</groupId>
+  <artifactId>quercus</artifactId>
+  <version>4.0.45</version>
+  
+  <packaging>jar</packaging>
+  <name>Quercus</name>
+  <description>A PHP engine implemented in 100% Java</description>
+  <url>http://quercus.caucho.com</url>
+  
+  <licenses>
+    <license>
+      <name>GPLv2</name>
+      <url>http://www.gnu.org/licenses/gpl-2.0.html</url>
+    </license>
+  </licenses>
+  
+  <developers>
+    <developer>
+      <name>Caucho Technology</name>
+      <email>nam@caucho.com</email>
+      <organization>Caucho Technology</organization>
+      <organizationUrl>https://www.caucho.com</organizationUrl>
+    </developer>
+  </developers>
+  
+  <dependencies>
+    <dependency>
+      <groupId>javax.servlet</groupId>
+      <artifactId>servlet-api</artifactId>
+      <version>2.4</version>
+      <scope>provided</scope>
+    </dependency>
+  </dependencies>
+  
+  <scm>
+    <connection>scm:svn:svn://svn.caucho.com/home/svn/svnroot/resin/trunk</connection>
+    <developerConnection>scm:svn:svn://svn.caucho.com/home/svn/svnroot/resin/trunk</developerConnection>
+    <url>svn://svn.caucho.com/home/svn/svnroot/resin/trunk</url>
+  </scm>
+</project>
+
+

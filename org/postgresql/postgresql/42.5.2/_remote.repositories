@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 21 23:23:30 CST 2023
+postgresql-42.5.2.jar>nexus-aliyun=
+postgresql-42.5.2.pom>nexus-aliyun=

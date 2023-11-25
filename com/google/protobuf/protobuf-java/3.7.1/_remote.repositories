@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Oct 29 13:19:05 CST 2023
+protobuf-java-3.7.1.jar>maven-netwisd=
+protobuf-java-3.7.1.pom>maven-netwisd=

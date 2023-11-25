@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Oct 29 13:18:51 CST 2023
+netty-transport-native-epoll-4.1.76.Final-linux-aarch_64.jar>maven-netwisd=
+netty-transport-native-epoll-4.1.76.Final-linux-x86_64.jar>maven-netwisd=
+netty-transport-native-epoll-4.1.76.Final.pom>maven-netwisd=

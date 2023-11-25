@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>com.netwisd</groupId>
+        <artifactId>incloud-base</artifactId>
+        <version>5.0</version>
+    </parent>
+
+    <artifactId>incloud-base-pojo</artifactId>
+
+    <properties>
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
+    <dependencies>
+        <!-- core-starter -->
+        <dependency>
+            <groupId>com.netwisd</groupId>
+            <artifactId>incloud-starter-common-core</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+        <!-- db-starter -->
+        <dependency>
+            <groupId>com.netwisd</groupId>
+            <artifactId>incloud-starter-common-db</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+        <!-- security-starter -->
+        <dependency>
+            <groupId>com.netwisd</groupId>
+            <artifactId>incloud-starter-base-security</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+        <!-- code-starter -->
+        <dependency>
+            <groupId>com.netwisd</groupId>
+            <artifactId>incloud-starter-common-code</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+        <!-- easypoi -->
+        <dependency>
+            <groupId>cn.afterturn</groupId>
+            <artifactId>easypoi-annotation</artifactId>
+            <version>4.0.0</version>
+        </dependency>
+        <dependency>
+            <groupId>cn.afterturn</groupId>
+            <artifactId>easypoi-base</artifactId>
+            <version>4.0.0</version>
+            <scope>compile</scope>
+        </dependency>
+<!--        &lt;!&ndash; security &ndash;&gt;-->
+<!--        <dependency>-->
+<!--            <groupId>org.springframework.security</groupId>-->
+<!--            <artifactId>spring-security-core</artifactId>-->
+<!--        </dependency>-->
+    </dependencies>
+</project>

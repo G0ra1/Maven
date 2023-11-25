@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Nov 07 22:27:36 CST 2023
+antlr-runtime-3.5.2.jar>central=
+antlr-runtime-3.5.2.pom>nexus-aliyun=
+antlr-runtime-3.5.2.jar>maven-netwisd=
+antlr-runtime-3.5.2.pom>central=

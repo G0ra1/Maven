@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Nov 07 22:28:52 CST 2023
+aether-spi-1.7.jar>central=
+aether-spi-1.7.pom>nexus-aliyun=
+aether-spi-1.7.jar>nexus-aliyun=
+aether-spi-1.7.pom>central=

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Oct 29 13:20:10 CST 2023
+spring-jcl-5.3.19.jar>maven-netwisd=
+spring-jcl-5.3.19.jar>nexus-aliyun=
+spring-jcl-5.3.19.pom>maven-netwisd=
+spring-jcl-5.3.19.pom>nexus-aliyun=
