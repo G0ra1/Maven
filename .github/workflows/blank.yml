@@ -7,4 +7,12 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
+  steps:
+    - name: Checkout repository
+      uses: actions/checkout@3
+
+    - name: Run build commands
+      run: |
+        echo "Buildind the project...."
     
