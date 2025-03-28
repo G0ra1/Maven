@@ -1,6 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sun Oct 29 21:37:34 CST 2023
-protobuf-java-3.11.4.jar>maven-netwisd=
-protobuf-java-3.11.4.jar>nexus-aliyun=
-protobuf-java-3.11.4.pom>maven-netwisd=
-protobuf-java-3.11.4.pom>nexus-aliyun=
