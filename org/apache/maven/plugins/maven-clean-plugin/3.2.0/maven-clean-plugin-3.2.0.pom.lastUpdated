@@ -1,5 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Tue Nov 07 22:29:06 CST 2023
-https\://repo.maven.apache.org/maven2/.lastUpdated=1699367346490
-http\://repo2.maven.org/maven2/.error=Could not transfer artifact org.apache.maven.plugins\:maven-clean-plugin\:pom\:3.2.0 from/to repo2 (http\://repo2.maven.org/maven2/)\: status code\: 502, reason phrase\: Bad Gateway (502)
-@127.0.0.1\:7890>@default-repo2-http\://repo2.maven.org/maven2/.lastUpdated=1699367046488

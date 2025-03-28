@@ -1,5 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Tue Nov 07 22:27:09 CST 2023
-https\://repo.maven.apache.org/maven2/.lastUpdated=1699367229154
-http\://repo2.maven.org/maven2/.error=Could not transfer artifact org.apache.tomcat\:tomcat-catalina\:pom\:8.0.36 from/to repo2 (http\://repo2.maven.org/maven2/)\: status code\: 502, reason phrase\: Bad Gateway (502)
-@127.0.0.1\:7890>@default-repo2-http\://repo2.maven.org/maven2/.lastUpdated=1699367040938
